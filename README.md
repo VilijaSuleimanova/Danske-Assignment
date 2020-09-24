@@ -1,5 +1,5 @@
 1.Download and open project preferably with VSCode. 
-2. Install npm, i.e. run "npm install" as then do navigate to client folder and do same
+2. Install npm, i.e. run "npm install" as then navigate to client folder and do same
 3. Navigate back to main folder and write "npm run dev". It will start react, express and json server
 
 Go to your browser and use
