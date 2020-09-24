@@ -4,5 +4,5 @@
 
 Go to your browser and use
 
-Input field accepts numerical values from 1 to 9999. Values represents fake users "id's". Each user is assigned for a "special offer package" wich will show up one user id will be submited.
+Input field accepts numerical values from 1 to 9999. Values represents fake users "id's". Each user is assigned for a "special offer package" wich will be displayed once user id will be submited.
 
