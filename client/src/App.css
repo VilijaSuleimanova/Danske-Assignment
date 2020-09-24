@@ -1,0 +1,28 @@
+.App {
+    text-align: center;
+    background-color: #add8e6;
+    height: 100vh;
+}
+
+.tx-drk-blue {
+    color: #003366 !important;
+}
+
+.fullHeight {
+    height: 80vh;
+}
+
+.note-style {
+    font-size: 40px;
+    font-style: italic;
+    color: #003366;
+}
+
+.formStyle {
+    margin-top: 20px;
+}
+
+.font40 {
+    font-size: 40px;
+    font-style: italic;
+}
